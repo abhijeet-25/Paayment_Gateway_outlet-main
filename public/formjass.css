@@ -1,0 +1,44 @@
+p{
+    font-weight: bold;
+}
+#field{
+    width: 33%;
+}
+input{
+    width: 33%;
+    border: 2px solid black;
+    background: none;
+}
+body{
+    background: linear-gradient(to left,rgba(202, 198, 198, 0.3),rgba(171, 164, 164, 0.4)
+    ),url("backgroundd.jpg") no-repeat;
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed; 
+    overflow: scroll;
+    
+}
+textarea{
+    background: none;
+}
+h1{
+    text-align: center;
+    font-size:3rem;   
+}
+h2{
+    font-size: 2.2rem;
+    text-align: center;
+}
+h3{
+    color: rgb(253, 47, 47);
+}
+button{
+    width: 20%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    background: rgb(252, 52, 52);
+
+}
